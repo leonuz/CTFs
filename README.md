@@ -6,4 +6,3 @@
 - BiOt CTF 2021                                         https://biotciberseguridad.cf/actividades/
 - DOJOConf CTF 2021                                     https://dojoconfpa.org/#taller
 - Hacky Holidays - SPACE RACE 2021                      https://hackyholidays.io/
-- 
