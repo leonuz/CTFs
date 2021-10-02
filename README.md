@@ -21,14 +21,14 @@ My profile for CTFTime here: https://ctftime.org/team/156755
 
 ### WriteUps
 
-1)Deloitte Hacky Holidays 2021  
+**1)Deloitte Hacky Holidays 2021**  
 Official page: https://hackyholidays.io/  
 CTFTime Event: [CTFTime](https://ctftime.org/event/1383)  
 Challenge name: Knock knock knocking on shuttles door   
 [Writeup Link](https://medium.com/@leonuz/knock-knock-knocking-on-shuttles-door-challenge-writeup-hacky-holidays-space-race-2021-ctf-263bfbb5a306)  
 `Winner 2d Best Write-up` 
 
-2)DownUnderCTF 2021  
+**2)[DownUnderCTF 2021](img/DownUnder2021.png)**    
 Official page: https://downunderctf.com/  
 CTFTime Event: [CTFtime](https://ctftime.org/event/1312)  
 Challenge name: That’s Not My Name  
