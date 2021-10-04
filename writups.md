@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Official page: https://hackyholidays.io/  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CTFTime Event ID: [CTFTime](https://ctftime.org/event/1383)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Challenge name: Knock knock knocking on shuttles door   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Writeup Link](https://medium.com/@leonuz/knock-knock-knocking-on-shuttles-door-challenge-writeup-hack 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Writeup Link](https://medium.com/@leonuz/knock-knock-knocking-on-shuttles-door-challenge-writeup-hack  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Winner 2d Best Write-up` 
 
 **2) [DownUnderCTF 2021](img/DownUnder2021.png)**    
