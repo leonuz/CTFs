@@ -32,6 +32,6 @@ The report includes recommendations covering the following areas:
 -   Communication and media;
 -   Post-event.
 
-More Info:
-[Capture The Flag 101](https://ctf101.org/)
+More Info:  
+[Capture The Flag 101](https://ctf101.org/)  
 [European Union Agency For Cybersecurity](https://www.enisa.europa.eu/news/enisa-news/capture-the-flag-competitions-all-you-ever-wanted-to-know)
