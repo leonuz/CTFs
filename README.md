@@ -16,6 +16,6 @@ My profile for CTFTime here: https://ctftime.org/team/156755
 | [DOJOConf CTF 2021](img/dojoconf_2021.png) | 20-23 Jul | https://dojoconfpa.org/#taller | 9/40 | Panama |
 | [DEF CON 29 Red Team CTF](img/DEFCON29.png) | 07 Ago | https://redteamvillage.io/ctf | 80/658 | USA |
 | [DragonJarCon CTF 2021](img/Dragonjar2021.png) | 01-03 Sep | https://www.dragonjarcon.org/ | 4/385 | Colombia |
-| Intelcon CTF 2021 | 10-12 Sep | https://intelcon.ginseg.com/2021/ | 10/181 | Spain |
+| [Intelcon CTF 2021](img/intelcon2021.png) | 10-12 Sep | https://intelcon.ginseg.com/2021/ | 10/181 | Spain |
 | Hack By Security CTF 2021  | 17-18 Sep | https://ctf.hbscon.com/ | 8/84 | Spain |   
-
+| Paella CTF 2021  | 09-10 Oct | https://worldparty.hackmadrid.org/index.html#ctf | 7/70 | Spain |   
