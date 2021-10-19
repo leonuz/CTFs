@@ -1,10 +1,16 @@
-# Capture The Flag
+# Capture The Flag (CTF)
+If you are not familiar with the term **"CTF "** and all that this **WORLD** has to offer to the cybersecurity community, I recommend you read [this](ctf.md) first.
 
-My profile for CTFTime here: https://ctftime.org/team/156755
+>There are a lot of Capture The Flag (CTF) competitions in our days, some of them have excelent tasks, but in most cases they're forgotten just after the CTF finished.  
+[CTFTime](https://ctftime.org/) make some kind of CTF archive and a place, where you can get some another CTF-related info - current overall Capture The Flag team rating, per-team statistics etc.  
 
 ![CTFTime](img/logo.png)
 
-## CTF's played outside **CTFTime**
+My profile for CTFTime here: https://ctftime.org/team/156755
+
+
+
+## CTF's played outside **CTFTime** world
 
 | CTF Name | Date | Description | My Rank / Total Player | Country | 
 | ------------ | :------------------- | ---------------------------------------- | -------: | ----- | 
