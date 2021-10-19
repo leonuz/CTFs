@@ -11,6 +11,8 @@ Hack The Box is a massive, online cyber security training platform, allowing ind
 ### - [CyberDefenders](https://cyberdefenders.org/)
 Is a training platform focused on the defensive side of cybersecurity, aiming to provide a place for blue teams to practice
 ### - [CRYPTOHACK](https://cryptohack.org/)
-A fun, free platform to learn about cryptography through solving challenges and cracking insecure code
+A fun, free platform to learn about cryptography through solving challenges and cracking insecure code  
+### - [CTFLearn](https://ctflearn.com/)
+CTFlearn began as a simple project by the members of a local school's CTF club in order to have a playground for testing their skills.
 
 `leonuz`
