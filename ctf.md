@@ -32,6 +32,10 @@ The report includes recommendations covering the following areas:
 -   Communication and media;
 -   Post-event.
 
+# For Free Training
+This are a list for free training sites
+[list training sites](ctf_training.md)  
+
 # More Info:  
 [Capture The Flag 101](https://ctf101.org/)  
 [European Union Agency For Cybersecurity](https://www.enisa.europa.eu/news/enisa-news/capture-the-flag-competitions-all-you-ever-wanted-to-know)
