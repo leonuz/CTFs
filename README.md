@@ -25,7 +25,7 @@ My profile for CTFTime find here: [CTFTime Profile](https://ctftime.org/team/156
 | UCA CTF 2021 | 15-17 May | [UCA](https://www.uca.es/evento/uca-cybersecurity-day/) | 10/105 | Spain |
 | JNIC CTF 2021 | 04-07 Jun | [JNIC](https://2021.jnic.es/ctf) | 11/79 | Spain |
 | BiOt CTF 2021 | 19-20 Jun | [Biot](https://biotciberseguridad.cf/actividades/) | 5/22 | Ecuador |
-| [DOJOConf CTF 2021](img/dojoconf_2021.png) | 20-23 Jul | [DOJO](https://dojoconfpa.org/#taller) | 9/40 | Panama |
+| [DOJOConf CTF 2021](img/dojoconf_2021.png) | 20-23 Jul | [comunidadDOJO](https://dojoconfpa.org/#taller) | 9/40 | Panama |
 | [DEF CON 29 Red Team CTF](img/DEFCON29.png) | 07 Ago | [RedTeamVillage](https://redteamvillage.io/ctf) | 80/658 | USA |
 | [DragonJarCon CTF 2021](img/Dragonjar2021.png) | 01-03 Sep | [DragonJar](https://www.dragonjarcon.org/) | 4/385 | Colombia |
 | [Intelcon CTF 2021](img/intelcon2021.png) | 10-12 Sep | [Intelcon-Ginseg](https://intelcon.ginseg.com/2021/) | 10/181 | Spain |
