@@ -1,6 +1,6 @@
 ![CTFTime](img/flag.jfif)
 ---
-# CTF Competitions: what are they? 
+# CTF Competitions: What are they? 
 
 Capture-the-Flag events are computer security competitions. Participants compete in security-themed challenges for the purpose of obtaining the highest score. Competitors are expected to “capture flags” to increase their score, hence the name of the event. Flags are usually random strings embedded in the challenges.
 
@@ -49,4 +49,7 @@ This are a list for (free and paid) training sites
 
 # More Info:  
 [Capture The Flag 101](https://ctf101.org/)  
-[European Union Agency For Cybersecurity](https://www.enisa.europa.eu/news/enisa-news/capture-the-flag-competitions-all-you-ever-wanted-to-know)
+[European Union Agency For Cybersecurity](https://www.enisa.europa.eu/news/enisa-news/capture-the-flag-competitions-all-you-ever-wanted-to-know)  
+
+`leonuz`  
+
