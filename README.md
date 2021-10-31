@@ -12,7 +12,7 @@ If you are not familiar with the term **"CTF "** and all that this **WORLD** has
 
 My profile for CTFTime find here: [CTFTime Profile](https://ctftime.org/team/156755)  
 
-[Here](writups.md) are a few Writeup that I made for some CTFs
+[Here](writeups.md) are a few Writeup that I made for some CTFs
 
 ---
 
