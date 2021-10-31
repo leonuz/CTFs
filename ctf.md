@@ -1,6 +1,6 @@
 ![CTFTime](img/flag.jfif)
 ---
-# CTF competitions: what are they? 
+# CTF Competitions: what are they? 
 
 Capture-the-Flag events are computer security competitions. Participants compete in security-themed challenges for the purpose of obtaining the highest score. Competitors are expected to “capture flags” to increase their score, hence the name of the event. Flags are usually random strings embedded in the challenges.
 
