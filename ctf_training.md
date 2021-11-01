@@ -1,3 +1,4 @@
+![CTFTraining](img/training.png)
 ## CTF Training sites
 
 ### - [Hacker101 CTF](https://ctf.hacker101.com/)
