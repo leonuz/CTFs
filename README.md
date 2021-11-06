@@ -32,5 +32,6 @@ My profile for CTFTime find here: [CTFTime Profile](https://ctftime.org/team/156
 | Hack By Security CTF 2021  | 17-18 Sep | [HBScon](https://ctf.hbscon.com/) | 8/84 | Spain |   
 | Paella CTF 2021  | 09-10 Oct | [HackMadrid](https://worldparty.hackmadrid.org/index.html#ctf) | 7/70 | Spain |  
 | CTF Metared Mexico 2021 | 21-22 Oct | [Eventos Metared](https://eventos.metared.org/69242/section/32200/ctf-internacional-metared-2021-2nd-stage.html) | 8/46 | Mexico | 
+| CTF Metared Ecuador 2021 | 4-5 Nov | [Eventos Metared](https://eventos.metared.org/69244/detail/ctf-internacional-metared-2021-3rd-stage.html) | 29/229 | Ecuador |
 
 `leonuz`
