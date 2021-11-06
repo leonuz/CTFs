@@ -10,9 +10,9 @@ If you are not familiar with the term **"CTF "** and all that this **WORLD** has
 
 ---
 
-My profile for CTFTime find here: [CTFTime Profile](https://ctftime.org/team/156755)  
+My CTFTime profile can be found here: [CTFTime Profile](https://ctftime.org/team/156755)  
 
-[Here](writeups.md) are a few Writeup that I made for some CTFs
+[Here](writeups.md) you will find some writeups that I have done.
 
 ---
 
@@ -31,7 +31,7 @@ My profile for CTFTime find here: [CTFTime Profile](https://ctftime.org/team/156
 | [Intelcon CTF 2021](img/intelcon2021.png) | 10-12 Sep | [Intelcon-Ginseg](https://intelcon.ginseg.com/2021/) | 10/181 | Spain |
 | Hack By Security CTF 2021  | 17-18 Sep | [HBScon](https://ctf.hbscon.com/) | 8/84 | Spain |   
 | Paella CTF 2021  | 09-10 Oct | [HackMadrid](https://worldparty.hackmadrid.org/index.html#ctf) | 7/70 | Spain |  
-| CTF Metared Mexico 2021 | 21-22 Oct | [Eventos Metared](https://eventos.metared.org/69242/section/32200/ctf-internacional-metared-2021-2nd-stage.html) | 8/46 | Mexico | 
-| CTF Metared Ecuador 2021 | 4-5 Nov | [Eventos Metared](https://eventos.metared.org/69244/detail/ctf-internacional-metared-2021-3rd-stage.html) | 29/229 | Ecuador |
+| CTF Metared Mexico 2021 | 21-22 Oct | [Metared 2nd Stage](https://eventos.metared.org/69242/section/32200/ctf-internacional-metared-2021-2nd-stage.html) | 8/46 | Mexico | 
+| CTF Metared Ecuador 2021 | 4-5 Nov | [Metared 3rd Stage](https://eventos.metared.org/69244/detail/ctf-internacional-metared-2021-3rd-stage.html) | 29/229 | Ecuador |
 
 `leonuz`
