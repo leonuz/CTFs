@@ -31,6 +31,7 @@ My CTFTime profile can be found [here](https://ctftime.org/team/156755)
 | [DragonJarCon CTF 2021](img/Dragonjar2021.png) | 01-03 Sep | [DragonJar](https://www.dragonjarcon.org/) | 4/385 | Colombia |
 | [Intelcon CTF 2021](img/intelcon2021.png) | 10-12 Sep | [Intelcon-Ginseg](https://intelcon.ginseg.com/2021/) | 10/181 | Spain |
 | Hack By Security CTF 2021  | 17-18 Sep | [HBScon](https://ctf.hbscon.com/) | 8/84 | Spain |   
+| [DownUnderCTF 2021](img/DownUnder2021.png) | 24-26 Sep | [DownUnderCTF](https://downunderctf.com/) | 271/2152 | Australia |
 | Paella CTF 2021  | 09-10 Oct | [HackMadrid](https://worldparty.hackmadrid.org/index.html#ctf) | 7/70 | Spain |  
 | CTF Metared Mexico 2021 | 21-22 Oct | [Metared 2nd Stage](https://eventos.metared.org/69242/section/32200/ctf-internacional-metared-2021-2nd-stage.html) | 8/46 | Mexico | 
 | CTF Metared Ecuador 2021 | 4-5 Nov | [Metared 3rd Stage](https://eventos.metared.org/69244/detail/ctf-internacional-metared-2021-3rd-stage.html) | 29/229 | Ecuador |
