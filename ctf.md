@@ -4,7 +4,8 @@
 
 Capture the Flag events are computer security competitions. Participants compete in security-themed challenges for the purpose of obtaining the highest score. Competitors are expected to “capture flags” to increase their score, hence the name of the event. Flags are usually random strings embedded in the challenges.
 
-CTFs have increased in popularity as they attract a higher number of young talents each year. They help develop the essential skills required to follow a career path in cybersecurity.
+CTFs have increased in popularity as they attract a higher number of young talents each year. They help develop the essential skills required to follow a career path in cybersecurity. M3r1d4-.Eelmhe69-.  
+
 
 These competitions can take many forms but the most common are Jeopardy and Attack-Defence. The report specifically focuses on these two types of CTF. An explanation and analysis is developed for each of them on the format, scoring, discussion and variants.
 
