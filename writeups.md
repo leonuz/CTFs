@@ -31,11 +31,11 @@
 ![RTV](img/space.png)  
 >Official page: https://research.fit.edu/fitsec/  
 >CTFTime Event ID: [1567](https://ctftime.org/event/1567)  
->Challenge name: Mysterious Broadcast (WEB)
+>Challenge name: Mysterious Broadcast (WEB)  
 >[Writeup Link](https://leonuz.github.io/blog/Mysterious-Broadcast/)   
->Challenge name: The Legend of the Chozo (Forensic)
+>Challenge name: The Legend of the Chozo (Forensic)  
 >[Writeup Link](https://leonuz.github.io/blog/The-Legend-of-the-Chozo/)  
->Challenge name: Vader (UNINTENDED PWN)
+>Challenge name: Vader (UNINTENDED PWN)  
 >[Writeup Link](https://leonuz.github.io/blog/Vader/) 
 
 
