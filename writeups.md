@@ -1,7 +1,25 @@
 ![writeup](img/ctf-writeup.png)  
 
+### **8) EZ-CTF 2022**  
+![cafeCTF](img/cafe.png)  
+>Official page: https://ez.ctf.cafe/    
+>CTFTime Event ID: [1655](https://ctftime.org/event/1655)   
+>Challenge name: Qweauty and the Beast (Crypto)   
+>[Writeup Link](https://ctftime.org/writeup/33675)  
+
+---
+
+### **7) EZ-CTF 2022**  
+![cafeCTF](img/cafe.png)  
+>Official page: https://ez.ctf.cafe/    
+>CTFTime Event ID: [1655](https://ctftime.org/event/1655)   
+>Challenge name: I made a Blog! (WEB)   
+>[Writeup Link](https://leonuz.github.io/blog/I-made-a-blog/)  
+
+---
+
 ### **6) Nahamcon CTF 2022**  
-![RTV](img/nahamcon.png)  
+![nahacom](img/nahamcon.png)  
 >Official page: https://redteamvillage.io/ctf.html    
 >CTFTime Event ID: [1630](https://ctftime.org/event/1630)   
 >Challenge name: OTP Vault (Mobile)   
@@ -10,7 +28,7 @@
 ---
 
 ### **5) Midnightflag INFEKTION 2022**  
-![RTV](img/midnightflag.png)  
+![midnightflag](img/midnightflag.png)  
 >Official page: https://midnightflag.fr/   
 >CTFTime Event ID: [1610](https://ctftime.org/event/1610)     
 >Challenge name: Exfiltration d'agent (Network)    
@@ -19,7 +37,7 @@
 ---  
 
 ### **4) Space Heroes CTF 2022**  
-![RTV](img/space.png)  
+![space](img/space.png)  
 >Official page: https://research.fit.edu/fitsec/  
 >CTFTime Event ID: [1567](https://ctftime.org/event/1567)  
 >Challenge name: Mysterious Broadcast (WEB)  
