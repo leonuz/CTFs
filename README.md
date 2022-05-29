@@ -17,7 +17,15 @@ My CTFTime profile can be found [here](https://ctftime.org/team/156755)
 
 ---
 
-## CTF's played outside **CTFTime** world
+## CTF's played outside **CTFTime** world  
+
+## 2022
+
+| CTF Name | Date | Description | My Rank / Total Player | Country | 
+| ------------ | :------------------- | ---------------------------------------- | -------: | ----- | 
+| [FliSol Guayaquil 2022](img/flisol2022.png) | 28 May | [FliSolCTF](https://flisol.info/FLISOL2022/Ecuador/Guayaquil) | 3/12 | Ecuador |  
+
+## 2021  
 
 | CTF Name | Date | Description | My Rank / Total Player | Country | 
 | ------------ | :------------------- | ---------------------------------------- | -------: | ----- | 
@@ -35,5 +43,6 @@ My CTFTime profile can be found [here](https://ctftime.org/team/156755)
 | Paella CTF 2021  | 09-10 Oct | [HackMadrid](https://worldparty.hackmadrid.org/index.html#ctf) | 7/70 | Spain |  
 | CTF Metared Mexico 2021 | 21-22 Oct | [Metared 2nd Stage](https://eventos.metared.org/69242/section/32200/ctf-internacional-metared-2021-2nd-stage.html) | 8/46 | Mexico | 
 | CTF Metared Ecuador 2021 | 4-5 Nov | [Metared 3rd Stage](https://eventos.metared.org/69244/detail/ctf-internacional-metared-2021-3rd-stage.html) | 29/229 | Ecuador |
+
 
 `leonuz`
