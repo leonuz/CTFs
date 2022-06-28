@@ -23,6 +23,7 @@ My CTFTime profile can be found [here](https://ctftime.org/team/156755)
 
 | CTF Name | Date | Description | My Rank / Total Player | Country | 
 | ------------ | :------------------- | ---------------------------------------- | -------: | ----- | 
+| [JNIC 2022](img/jnic2022.png) | 08-10 Jun | [JNIC](https://2022.jnic.es/ctf) | 25/277 | Spain |
 | [UAD360 2022](img/uad3602022.png) | 08-10 Jun | [UAD360](https://uad360.es/ctf) | 6/32 | Spain |
 | [FliSol Guayaquil 2022](img/flisol2022.png) | 28 May | [FliSolCTF](https://flisol.info/FLISOL2022/Ecuador/Guayaquil) | 3/12 | Ecuador |
 | [MauleHack 2022](img/maulehack2022.png) | 17-24 Jun | [M4UL3H4CK](https://maulehack.cl/) | 9/84 | Chile |  
