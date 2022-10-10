@@ -1,38 +1,36 @@
 ![writeup](img/ctf-writeup.png)  
 
-### **11) Deloitte Hacky Holidays 2022 - Unlock the City**  
+---
+
+### **10) CTF GDG Algiers 2022**  
+![gdgalgiers](img/gdgalgiers.png)  
+>Official page: https://www.gdgalgiers.com/  
+>CTFTime Event ID: [1745](https://ctftime.org/event/1745)   
+>Challenge name: PORTAL (Misc)   
+>[Writeup Link](https://leonuz.github.io/blog/Postal/)  
+>Challenge name: Intruder (Misc)   
+>[Writeup Link](https://leonuz.github.io/blog/Intruder/)  
+
+---
+
+### **9) Deloitte Hacky Holidays 2022 - Unlock the City**  
 ![Deloitte2](img/HH.png)  
 >Official page: https://hackyholidays.io/  
 >CTFTime Event ID: [1687](https://ctftime.org/event/1687)   
 >Challenge name: SECRET CONVE.RSA.TIONS (Crypto)   
 >[Writeup Link](https://leonuz.github.io/blog/SECRET-CONVE.RSA.TIONS/)  
 >`Winner top-10 Best Write-up` 
----
-
-### **10) BCACTF 2022**  
-![BCACTF](img/bca22.png)  
->Official page: https://bcactf.com/     
->CTFTime Event ID: [1602](https://ctftime.org/event/1602)   
->Challenge name: Jason's Tarot 3 (WEB)   
->[Writeup Link](https://leonuz.github.io/blog/Jasons-Tarot-3/)  
 
 ---
 
-### **9) BCACTF 2022**  
+### **8) BCACTF 2022**  
 ![BCACTF](img/bca22.png)  
 >Official page: https://bcactf.com/   
 >CTFTime Event ID: [1602](https://ctftime.org/event/1602)   
 >Challenge name: Jason's Web Tarot 2 (WEB)   
 >[Writeup Link](https://leonuz.github.io/blog/Jasons-Web-Tarot-2/)  
-
----
-
-### **8) EZ-CTF 2022**  
-![cafeCTF](img/cafe.png)  
->Official page: https://ez.ctf.cafe/    
->CTFTime Event ID: [1655](https://ctftime.org/event/1655)   
->Challenge name: Qweauty and the Beast (Crypto)   
->[Writeup Link](https://ctftime.org/writeup/33675)  
+>Challenge name: Jason's Web Tarot 2 (WEB)   
+>[Writeup Link](https://leonuz.github.io/blog/Jasons-Web-Tarot-2/)  
 
 ---
 
@@ -42,6 +40,8 @@
 >CTFTime Event ID: [1655](https://ctftime.org/event/1655)   
 >Challenge name: I made a Blog! (WEB)   
 >[Writeup Link](https://leonuz.github.io/blog/I-made-a-blog/)  
+>Challenge name: Qweauty and the Beast (Crypto)   
+>[Writeup Link](https://ctftime.org/writeup/33675)  
 
 ---
 
