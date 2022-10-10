@@ -80,7 +80,7 @@
 ![RTV](img/rtv.png)  
 >Official page: https://redteamvillage.io/ctf.html  
 >CTFTime Event ID: n/a  
->- Challenge name: Router-Pwn (Network) 
+>- Challenge name: Router-Pwn (Network)  
 >[Writeup Link](https://leonuz.github.io/blog/Router-Pwn/)   
 
 ---  
