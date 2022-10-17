@@ -23,6 +23,9 @@ My CTFTime profile can be found [here](https://ctftime.org/team/156755)
 
 | CTF Name | Date | Description | My Rank / Total Player | Country | 
 | ------------ | :------------------- | ---------------------------------------- | -------: | ----- | 
+| [WorlParty CTF 2022](img/wp2k22.png) | 15-16 Oct | [World Party](https://worldparty.hack27.org/) | 2/48 | Spain |
+| [Innovapolinav 2022](img/innovapolinav2022.png) | 13-14 Oct | [Innovapolinav](https://innovapolinav.cl/innovapolinav/site/edic/base/port/landing2022.html#agenda/) | 3/45 | Chile |
+| [TizonaCON 2022](img/tizonaconf2022.png) | 11-14 Oct | [Tizona CTF](https://www.tizonaconf.com/) | 3/6 | Spain |
 | [Umbrella_CTF 2022](img/certUmbrella2022.png) | 9-10 Jul | [Umbrella CTF](https://twitter.com/Umbrela_CTF) | 5/60 | Paraguay |
 | [OWASP Panama 2022](img/op2022.png) | 26-27 Jun | [OWASP Panama](img/owaspanama2022.png) | 2/114 | Panama |
 | [JNIC 2022](img/jnic2022.png) | 24-27 Jun | [JNIC](https://2022.jnic.es/ctf) | 25/277 | Spain |
