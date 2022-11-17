@@ -23,6 +23,7 @@ My CTFTime profile can be found [here](https://ctftime.org/team/156755)
 
 | CTF Name | Date | Description | My Rank / Total Player | Country | 
 | ------------ | :------------------- | ---------------------------------------- | -------: | ----- | 
+[Kavacon CTF 2022](img/kavacon2022.png) | 15-16 Nov | [Kavacon](https://kavacon.org/) | 4/45 | Paraguay |
 | [WorlParty CTF 2022](img/wp2k22.png) | 15-16 Oct | [World Party](https://worldparty.hack27.org/) | 2/48 | Spain |
 | [Innovapolinav 2022](img/innovapolinav2022.png) | 13-14 Oct | [Innovapolinav](https://innovapolinav.cl/innovapolinav/site/edic/base/port/landing2022.html#agenda/) | 3/45 | Chile |
 | [TizonaCON 2022](img/tizonaconf2022.png) | 11-14 Oct | [Tizona CTF](https://www.tizonaconf.com/) | 3/6 | Spain |
