@@ -6,7 +6,7 @@
 ![spaceheroes](img/spaceh23.png)  
 >Official page: https://research.fit.edu/fitsec/  
 >CTFTime Event ID: [1856](https://ctftime.org/event/1856)   
->- Challenge name: Timeless (Forensic)   
+>- Challenge name: Conspiracy Nut (Forensic)   
 >[Writeup Link](https://leonuz.github.io/blog/conspiracy-nut/)  
 ---
 
