@@ -8,7 +8,7 @@
 >CTFTime Event ID: [1856](https://ctftime.org/event/1856)   
 >- Challenge name: Conspiracy Nut (Forensic)   
 >[Writeup Link](https://leonuz.github.io/blog/conspiracy-nut/)  
->`Winner top-3 Best Write-up`[see](img/3best.png)
+>`Winner top-3 Best Write-up`  [Discord announcements](img/3best.png)
 ---
 
 ### **11) Jersey CTF III 2023**  
