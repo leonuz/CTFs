@@ -8,6 +8,7 @@
 >CTFTime Event ID: [1856](https://ctftime.org/event/1856)   
 >- Challenge name: Conspiracy Nut (Forensic)   
 >[Writeup Link](https://leonuz.github.io/blog/conspiracy-nut/)  
+>`Winner top-3 Best Write-up`[see](img/3best.png)
 ---
 
 ### **11) Jersey CTF III 2023**  
@@ -45,8 +46,8 @@
 >CTFTime Event ID: [1602](https://ctftime.org/event/1602)   
 >- Challenge name: Jason's Web Tarot 2 (WEB)   
 >[Writeup Link](https://leonuz.github.io/blog/Jasons-Web-Tarot-2/)  
->- Challenge name: Jason's Web Tarot 2 (WEB)   
->[Writeup Link](https://leonuz.github.io/blog/Jasons-Web-Tarot-2/)  
+>- Challenge name: Jason's Tarot 3 (WEB)   
+>[Writeup Link](https://leonuz.github.io/blog/Jasons-Tarot-3/))  
 
 ---
 
