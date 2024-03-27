@@ -7,7 +7,7 @@
 >Official page: https://www.jerseyctf.com  
 >CTFTime Event ID: [2230](https://ctftime.org/event/2230)   
 >- Challenge name: Crack-a-Mateo (Crypto)   
->[Writeup Link](https://leonuz.github.io/blog/Crack-a-Mateo/))  
+>[Writeup Link](https://leonuz.github.io/blog/Crack-a-Mateo/)  
 ---
 
 ### **12) Space Heroes CTF 2023**  
