@@ -2,6 +2,14 @@
 
 ---
 
+### **13) JerseyCTF IV 2024**  
+![spaceheroes](img/jerseyctf2024.png)  
+>Official page: https://www.jerseyctf.com  
+>CTFTime Event ID: [2230](https://ctftime.org/event/2230)   
+>- Challenge name: Crack-a-Mateo (Crypto)   
+>[Writeup Link](https://leonuz.github.io/blog/Crack-a-Mateo/))  
+---
+
 ### **12) Space Heroes CTF 2023**  
 ![spaceheroes](img/spaceh23.png)  
 >Official page: https://research.fit.edu/fitsec/  
