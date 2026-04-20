@@ -2,6 +2,14 @@
 
 ---
 
+### **14) JerseyCTF VI 2026**  
+![spaceheroes](img/jerseyctf2026.png)  
+>Official page: https://www.jerseyctf.com  
+>CTFTime Event ID: [3117](https://ctftime.org/event/3117)   
+>- Challenge name: Cold Wake (Forensic)   
+>[Writeup Link](https://leonuz.github.io/blog/Cold-Wake/)  
+---
+
 ### **13) JerseyCTF IV 2024**  
 ![spaceheroes](img/jerseyctf2024.png)  
 >Official page: https://www.jerseyctf.com  
