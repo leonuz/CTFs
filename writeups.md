@@ -3,7 +3,7 @@
 ---
 
 ### **14) JerseyCTF VI 2026**  
-![spaceheroes](img/jerseyctf2026.png)  
+![jerseyctf26](img/jerseyctf2026.png)  
 >Official page: https://www.jerseyctf.com  
 >CTFTime Event ID: [3117](https://ctftime.org/event/3117)   
 >- Challenge name: Cold Wake (Forensic)   
@@ -11,7 +11,7 @@
 ---
 
 ### **13) JerseyCTF IV 2024**  
-![spaceheroes](img/jerseyctf2024.png)  
+![jerseyctf24](img/jerseyctf2024.png)  
 >Official page: https://www.jerseyctf.com  
 >CTFTime Event ID: [2230](https://ctftime.org/event/2230)   
 >- Challenge name: Crack-a-Mateo (Crypto)   
@@ -28,7 +28,7 @@
 ---
 
 ### **11) Jersey CTF III 2023**  
-![jersey](img/jerseyctf23.png)  
+![jerseyctf23](img/jerseyctf23.png)  
 >Official page: https://www.jerseyctf.com/  
 >CTFTime Event ID: [1908](https://ctftime.org/event/1908)   
 >- Challenge name: Timeless (Web)   
